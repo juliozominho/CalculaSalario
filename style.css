@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Space+Mono&display=swap');
+body{
+    background-color: rgb(108, 162, 223);
+    font-family: 'Space Mono', monospace;
+    font-size: px;
+}
+#nome{
+    border-radius: 10px;
+}
+#salario{
+    border-radius: 10px;
+}
+#vendas{
+    border-radius: 10px;
+}
